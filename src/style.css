@@ -1,1 +1,16 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+#contenido {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 150px;
+  width: 100%;
+  margin-bottom: 160px;
+  margin-top: 160px;
+  border-radius: 25px;
+}
+#img {
+  width: 100%;
+}
+#excusa {
+  font-size: 20px;
+  font-weight: bold;
+}
